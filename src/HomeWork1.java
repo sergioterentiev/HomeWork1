@@ -3,7 +3,8 @@ public class HomeWork1 {
         int sum = HomeWork1.sumOfTwoNumbers(1, 2);
         System.out.println(sum);
     }
-    public static int sumOfTwoNumbers(int a, int b){
-        return a+b;
+
+    public static int sumOfTwoNumbers(int a, int b) {
+        return a + b;
     }
 }
